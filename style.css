@@ -1,0 +1,30 @@
+body {
+	padding: 0;
+	margin: 0;
+	background-color: #1e1e1e;
+	font-size: 20px;
+	font-family: 400;
+	font-family: 'KyivTypeTitling';
+}
+
+html { overflow-x: hidden; }
+
+.mono {
+	color: #fff;
+	position: absolute;
+	top: 1297px;
+	left: 1325px;
+	width: 100%;
+}
+
+.discord {
+	color: #fff;
+	position: absolute;
+	top: 1636px;
+	left: 1360px;
+	width: 100%;
+}
+
+.header {
+	position: relative;
+}
